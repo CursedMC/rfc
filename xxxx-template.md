@@ -1,4 +1,4 @@
-# #x - Template
+# xxxx - Template
 
 ## Abstract
 An abstract description of the RFC. Don't go too in-depth here.
